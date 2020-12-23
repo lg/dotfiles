@@ -2,6 +2,8 @@
 .DS_Store
 .bash_history
 .bundle/
+.config/rclone/
+.docker/
 .dotfiles/
 .gem/
 .node_repl_history
