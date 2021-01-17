@@ -3,9 +3,13 @@
 .bash_history
 .bundle/
 .config/rclone/
+.config/eddie/
+.config/wireshark/
+.cups/
 .docker/
 .dotfiles/
 .gem/
+.gnupg/
 .node_repl_history
 .npm/
 .nvm/

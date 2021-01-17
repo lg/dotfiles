@@ -51,6 +51,8 @@ alt - d : yabai -m window --toggle zoom-parent
 # toggle window fullscreen zoom
 alt - f : yabai -m window --toggle zoom-fullscreen
 
+# rotate tree (why)
+alt - r : yabai -m space --rotate 90
 
 
 
@@ -273,9 +275,6 @@ cmd + alt - c : yabai -m space --focus next || skhd -k "ctrl + alt + cmd - c"
 
 # toggle desktop offset (unnecessary)
 # alt - a : yabai -m space --toggle padding && yabai -m space --toggle gap
-
-# rotate tree (why)
-# alt - r : yabai -m space --rotate 90
 
 # mirror tree y-axis (never used it)
 # alt - y : yabai -m space --mirror y-axis

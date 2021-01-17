@@ -7,3 +7,6 @@ lg's dotfiles
 
 - some items are stored in iCloud or in iCloud keychain (note the use of the `security` command)
 - update the Brewfile with: `brew bundle dump`. wipe all existing brew files and install with `brew bundle --force cleanup`
+
+Need to figure out what to do with:
+.ssh, .config/wireshark, .gnupg
